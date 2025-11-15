@@ -9,7 +9,7 @@ Quick Run: Open in Google Colab (no installation needed!)
 ---
 
 **Predict final math grade (G3)** using study time, failures, absences, and family support.  
-*My first Data Science project — self-taught in 3 weeks! Built in <100 lines of code.*
+
 
 ---
 
