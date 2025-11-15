@@ -1,12 +1,11 @@
 # Student Exam Score Predictor (UCI Dataset)
 
-Quick Run: Open in Google Colab (no installation needed!)
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Libraries](https://img.shields.io/badge/Libraries-pandas%20%7C%20scikit--learn%20%7C%20seaborn-green)
 ![Dataset](https://img.shields.io/badge/Dataset-UCI%20Student%20Performance-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+Quick Run: Open in Google Colab (no installation needed!)
 ---
 
 **Predict final math grade (G3)** using study time, failures, absences, and family support.  
