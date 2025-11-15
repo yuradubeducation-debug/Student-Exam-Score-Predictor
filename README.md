@@ -26,7 +26,7 @@ This project uses machine learning to predict students' **final math grades (G3)
 - **Model**: Random Forest Regressor
 - **Tools**: Python, pandas, seaborn, scikit-learn
 - **Created**: November 2025 by **Yurii Dub**  
-  *(Self-taught using YouTube + free datasets)*
+  *(Self-taught using YouTube, Kaggle and AI + free datasets)*
 
 Explore how data science can predict educational outcomes!
 
