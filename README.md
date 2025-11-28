@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 
 readme_text = """
 # Student Exam Score Predictor (UCI Dataset)
