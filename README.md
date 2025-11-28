@@ -1,6 +1,5 @@
 
 
-readme_text = """
 # Student Exam Score Predictor (UCI Dataset)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
